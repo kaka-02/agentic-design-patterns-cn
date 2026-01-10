@@ -478,7 +478,7 @@ By deconstructing complex problems into a sequence of simpler, more manageable s
 
    <mark>提示工程指南 - 链式提示：[https://www.promptingguide.ai/techniques/chaining](https://www.promptingguide.ai/techniques/chaining)</mark>
 
-4. OpenAI API Documentation: [https://platform.openai.com/docs/guides/gpt/prompting](https://platform.openai.com/docs/guides/gpt/prompting)
+4. OpenAI API Documentation: [https://platform.openai.com/docs/guides/prompting](https://platform.openai.com/docs/guides/prompting)
 
    <mark>OpenAI API 官方文档：[https://platform.openai.com/docs/guides/gpt/prompting](https://platform.openai.com/docs/guides/gpt/prompting)</mark>
 
